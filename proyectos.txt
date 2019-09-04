@@ -1,7 +1,9 @@
-SeMóvil - Proyectos
+﻿SeMóvil - Proyectos
 
 BusUNAB
 - Juan Sebastián
+- Daniel Garcia
+- Steven Pinto
 
 Auto UNAB
 - Juan Sebastián
@@ -17,6 +19,8 @@ Guía Interactiva Centro Comercial
 
 Mapa de Control de “Accidentes” 
 - Juan Sebastián
+- Daniel Garcia
+- Steven Pinto
 
 LoL App
 - Juan Sebastián
