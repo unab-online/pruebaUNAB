@@ -5,7 +5,9 @@ Hilo
 
 BusUNAB
 - Juan Sebastián
-- Daniel Garcia
+- Juan Sebastián Serrano Arenas 
+- Daniel Garcia 
+- Cristian Tarzona  
 - Steven Pinto
 
 Auto UNAB
