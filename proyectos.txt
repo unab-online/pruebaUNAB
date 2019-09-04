@@ -7,6 +7,7 @@ Hilo
 >>>>>>> 8eb877d891f95e90699d6fea3266e831d7f753ee
 
 BusUNAB
+- Juan Sebastián
 - Juan Sebastián Serrano Arenas 
 - Daniel Garcia 
 - Cristian Tarzona  
@@ -20,7 +21,8 @@ Plataforma de monitoreo médico
 - Juan Sebastián
 
 Widget Calendario Cosmos
-- Juan Sebastián
+- Juan Sebastian
+- Andres Camilo Rincon
 
 Guía Interactiva Centro Comercial
 - Juan Sebastián
