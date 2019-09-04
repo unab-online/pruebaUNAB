@@ -13,6 +13,7 @@ BusUNAB
 
 Auto UNAB
 - Juan Sebastián
+- Juan Pablo Gomez
 
 Plataforma de monitoreo médico
 - Juan Sebastián
