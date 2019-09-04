@@ -10,6 +10,7 @@ BusUNAB
 - Cristian Tarazona  
 - Steven Pinto
 -Camilo Espinoza
+- José Acosta
 
 Auto UNAB
 - Juan Sebastián
