@@ -1,10 +1,7 @@
 ﻿SeMóvil - Proyectos
-<<<<<<< HEAD
-=======
 
 Hilo
 - Juan Sebastián
->>>>>>> 8eb877d891f95e90699d6fea3266e831d7f753ee
 
 BusUNAB
 - Juan Sebastián
@@ -30,6 +27,8 @@ Guía Interactiva Centro Comercial
 
 Mapa de Control de “Accidentes” 
 - Juan Sebastián
+- Daniel Garcia
+- Steven Pinto
 
 LoL App
 - Juan Sebastián
